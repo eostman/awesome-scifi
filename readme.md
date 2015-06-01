@@ -424,7 +424,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > Earth has been dominated for 1,000 years by an alien invader—and man is an endangered species. From the handful of surviving humans a courageous leader emerges—Jonnie Goodboy Tyler, who challenges the invincible might of the alien Psychlo empire in a battle of epic scale, danger and intrigue with the fate of the Earth and of the universe in the tenuous balance.
 
-#### [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga) (2004, 2005) *by Peter F. Hamilton* [4.2]
+####--- [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga) (2004, 2005) *by Peter F. Hamilton* [4.2]---
 
 *(And the sequels in the [Void Trilogy](https://www.goodreads.com/series/43520-void))*
 
@@ -794,7 +794,6 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 > A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
 #### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
-
 > A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
